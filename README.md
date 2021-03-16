@@ -11,7 +11,7 @@ Timber: https://github.com/JakeWharton/timber
 <br>
 
 <p align="center">
-Video Usage Instructions on Awesome Dev Notes YouTube: https://youtu.be/wQmiUs7JkDg
+Video Usage Instructions on Awesome Dev Notes YouTube: https://www.youtube.com/watch?v=mtrmk_9YwEc
 </p>
 
 <br>
